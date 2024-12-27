@@ -29,7 +29,7 @@ Hi there! I'm a **10th Grade student** at **Mahatma Hansraj Modern School**, and
 
 | Platform | Contact |  
 |:--|:--|  
-| <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="20" height="20" alt="Discord Logo"> **GunmanHuMai** | [My Discord](https://discord.com/users/1115658967012626542) |  
+| <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="20" height="20" alt="Discord Logo"> **Discord** | [GunmanHuMai](https://discord.com/users/1115658967012626542) |  
 | <img src="https://www.reshot.com/preview-assets/icons/YHUFD8SPL4/email-arrow-up-YHUFD8SPL4.svg" width="20" height="20" alt="Email Logo"> **E-Mail**  | [mukundagrawal800@gmail.com](mailto:mukundagarwal800@gmail.com) |  
 
 ---
