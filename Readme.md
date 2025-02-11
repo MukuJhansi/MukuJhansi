@@ -33,7 +33,6 @@
 <div align="center">
   <img src="https://spotify-lake-chi.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
-###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MukuJhansi/MukuJhansi/output/snake.svg" alt="Snake animation" />
