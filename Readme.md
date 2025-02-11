@@ -1,41 +1,38 @@
-# Welcome Here! 🌟  
+<h2 align="left">Hi 👋! My name is Soumy and I'm a Newbie Web Developer from Jhansi</h2>
 
-Hi there! I'm a **10th Grade student** at **Mahatma Hansraj Modern School**, and this is where I showcase my journey in web development. I'm passionate about coding, learning new technologies, and building cool projects!  
+###
 
----
+<h3 align="left">Languages familiar with</h3>
 
-## 🛠️ Skills & Technologies  
+###
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML Logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS Logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript Logo"> |  
-|:--:|:--:|:--:|  
-| Structuring web content | Styling and layout | Interactivity and functionality |  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
----
+###
 
-## 🚀 My Learning Journey  
+<div align="left">
+  <a href="https://discord.com/users/1115658967012626542" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="www.linkedin.com/in/ soumy-agarwal-mhms" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Currently Working On:  
-- Improving JavaScript skills to build interactive websites  
-- Learning how to make **responsive web designs**  
-- Exploring new frameworks like **React.js**  
+###
 
-### Next Steps:  
-- Diving deeper into **version control** with Git  
-- Experimenting with **APIs** and backend basics  
+<img align="right" height="200" src="https://images-ext-1.discordapp.net/external/zieYF4OK_H0s07fge5CheYrWNN9cy4CxytoERFF7gPE/%3Fwidth%3D400%26height%3D224/https/images-ext-2.discordapp.net/external/xGgMi1RfapUGygk-wEFuFV8ZQ6SZMMd8cPqHMvS0WGs/https/i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif"  />
 
----
-
-## 🌐 Connect With Me  
-
-| Platform | Contact |  
-|:--|:--|  
-| <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="20" height="20" alt="Discord Logo"> **Discord** | [GunmanHuMai](https://discord.com/users/1115658967012626542) |  
-| <img src="https://www.reshot.com/preview-assets/icons/YHUFD8SPL4/email-arrow-up-YHUFD8SPL4.svg" width="20" height="20" alt="Email Logo"> **E-Mail**  | [mukundagrawal800@gmail.com](mailto:mukundagarwal800@gmail.com) |  
-
----
-
-**Thanks for stopping by!** 🎉  
+###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Logo">
+  <img src="https://spotify-lake-chi.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
+
+###
