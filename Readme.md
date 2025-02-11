@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Soumy and I'm a Newbie Web Developer from Jhansi</h2>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MukuJhansi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MukuJhansi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,10 +8,9 @@
 
 ###
 
-<h3 align="left">Languages familiar with</h3>
+<h3 align="left">Languages</h3>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -22,7 +20,6 @@
 </div>
 
 ###
-
 <div align="left">
   <a href="https://discord.com/users/1115658967012626542" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -33,17 +30,10 @@
 </div>
 
 ###
-
-<img align="right" height="200" src="https://images-ext-1.discordapp.net/external/zieYF4OK_H0s07fge5CheYrWNN9cy4CxytoERFF7gPE/%3Fwidth%3D400%26height%3D224/https/images-ext-2.discordapp.net/external/xGgMi1RfapUGygk-wEFuFV8ZQ6SZMMd8cPqHMvS0WGs/https/i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif"  />
-
-###
-
 <div align="center">
   <img src="https://spotify-lake-chi.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
-
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MukuJhansi/MukuJhansi/output/snake.svg" alt="Snake animation" />
