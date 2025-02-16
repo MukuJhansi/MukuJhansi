@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soumy and I'm a Newbie Web Developer from Jhansi</h2>
+<h2 align="left">Hi 👋! Gunman Here and I'm a Newbie Web Developer</h2>
 
 ###
 <div align="center">
@@ -34,7 +34,4 @@
   <img src="https://spotify-lake-chi.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/MukuJhansi/MukuJhansi/output/snake.svg" alt="Snake animation" />
-
 ###
