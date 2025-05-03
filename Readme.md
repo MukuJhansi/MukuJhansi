@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Gunman Here and I'm a Newbie Web Developer</h2>
+<h2 align="left">Hi 👋 I'm a Newbie Web Developer</h2>
 
 ###
 <div align="center">
@@ -21,9 +21,9 @@
 
 ###
 <div align="left">
-  <a href="https://discord.gg/qC4ESbzEdh" target="_blank">
+<!--   <a href="https://discord.gg/qC4ESbzEdh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/soumy-agarwal-mhms" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -31,7 +31,7 @@
 
 ###
 <div align="center">
-  <a href="https://discord.com/users/1115658967012626542" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/1115658967012626542?theme=gray&bg=2b2d31&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&hideSpotify=true"/> </a>
+<!--   <a href="https://discord.com/users/1115658967012626542" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/1115658967012626542?theme=gray&bg=2b2d31&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&hideSpotify=true"/> </a> -->
   <br>
   <img src="https://spotify-lake-chi.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
