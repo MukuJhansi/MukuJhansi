@@ -31,7 +31,7 @@
 
 ###
 <div align="center">
-  <a href="https://discord.com/users/1115658967012626542" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/1115658967012626542?theme=gray&bg=2b2d31&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%Studying...&hideSpotify=true"/> </a>
+  <a href="https://discord.com/users/1115658967012626542" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/1115658967012626542?theme=gray&bg=2b2d31&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20Studying...&hideSpotify=true"/> </a>
   <br>
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315mm3ijxnnx3n7b34gr72nqubii&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Widget with the current Spotify song"  />
 </div>
