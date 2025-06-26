@@ -24,14 +24,14 @@
 <!--   <a href="https://discord.gg/qC4ESbzEdh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a> -->
-  <a href="https://www.linkedin.com/in/soumy-agarwal-mhms" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<!--   <a href="https://www.linkedin.com/in/soumy-agarwal-mhms" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
   </a>
 </div>
 
 ###
 <div align="center">
-  <a href="https://discord.com/users/1115658967012626542" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/1115658967012626542?theme=gray&bg=2b2d31&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%Studying...&hideSpotify=true"/> </a>
+  <a href="https://discord.com/users/1115658967012626542" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/1115658967012626542?theme=gray&bg=2b2d31&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%Studying..."/> </a>
   <br>
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315mm3ijxnnx3n7b34gr72nqubii&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Widget with the current Spotify song"  />
 </div>
